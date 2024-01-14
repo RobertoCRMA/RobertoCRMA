@@ -1,134 +1,7 @@
-# Hello Git & GitHub 
-
-[![Git](https://img.shields.io/badge/Git-2.37+-f14e32?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Web-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/)
-
-## Curso completo de 5 horas y 45 lecciones para aprender a trabajar con Git & GitHub desde cero y para principiantes
-
-![](./Media/header.jpg)
-
-### Proyecto realizado durante emisiones en directo desde [Twitch](https://twitch.tv/mouredev)
-
-> ##### Si consideras útil el curso, apóyalo haciendo "★ Star" en el repositorio. ¡Gracias!
-
-## Lo que aprenderás
-
-- Git desde su historia y fundamentos
-- Conceptos principales y flujo de trabajo
-- Manejo de terminal
-- Instalación y configuración
-- Más de 25 comandos de Git
-- GitHub desde cero
-- Configuración y autenticación
-- Integración de Git con GitHub
-- Flujo colaborativo
-- Herramientas destacadas
-- Ejemplos prácticos
-
-Y mucho más...
-
-## ¡Nuevo! Libro de Git & GitHub desde cero
-
-<a href="https://mouredev.com/libro-git"><img src="./Media/book.jpg" style="height: 50%; width:50%;"/></a>
-
-Una guía de estudio teórico-práctica paso a paso de 300 hojas para complementar el curso en vídeo y aprender mucho más.
-
-#### [Tapa Blanda y Kindle](https://mouredev.com/libro-git)
-
-#### [eBook (pdf, epub y web)](https://mouredev.com/ebook-git)
-
-> **Nota importante**: Si dispones de la versión en papel, y quieres consultar las imágenes del libro en máxima resolución, puedes encontrarlas en el directorio [Media/Book screenshots](./Media/Book%20screenshots) del repositorio.
-
-## Clases en vídeo
-
-ℹ️ Tienes un canal llamado **"git-github"** en el servidor de **[Discord](https://mouredev.com/discord)** de la comunidad para preguntar, compartir y ayudar.
-
-<a href="https://youtu.be/3GymExBkKjE"><img src="http://i3.ytimg.com/vi/3GymExBkKjE/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
-
-- [Introducción](https://youtu.be/3GymExBkKjE)
-- [Lección 1 - Introducción a Git](https://youtu.be/3GymExBkKjE?t=196) **Comienza la parte de Git**
-- [Lección 2 - Historia de Git](https://youtu.be/3GymExBkKjE?t=622)
-- [Lección 3 - Instalación de Git](https://youtu.be/3GymExBkKjE?t=876)
-- [Lección 4 - Comandos básicos de la terminal](https://youtu.be/3GymExBkKjE?t=1441)
-- [Lección 5 - Configuración de Git](https://youtu.be/3GymExBkKjE?t=1814)
-- [Lección 6 - "git init"](https://youtu.be/3GymExBkKjE?t=2208)
-- [Lección 7 - Ramas en Git](https://youtu.be/3GymExBkKjE?t=2544)
-- [Lección 8 - "git add" y "git commit"](https://youtu.be/3GymExBkKjE?t=2721)
-- [Lección 9 - "git log" y "git status"](https://youtu.be/3GymExBkKjE?t=3207)
-- [Lección 10 - "git checkout" y "git reset"](https://youtu.be/3GymExBkKjE?t=3468)
-- [Lección 11 - "git alias"](https://youtu.be/3GymExBkKjE?t=3782)
-- [Lección 12 - Fichero .gitignore](https://youtu.be/3GymExBkKjE?t=3905)
-- [Lección 13 - "git diff"](https://youtu.be/3GymExBkKjE?t=4145)
-- [Lección 14 - Desplazamiento en una rama](https://youtu.be/3GymExBkKjE?t=4314)
-- [Lección 15 - "git reset --hard" y "git reflog"](https://youtu.be/3GymExBkKjE?t=4772)
-- [Lección 16 - "git tag"](https://youtu.be/3GymExBkKjE?t=5258)
-- [Lección 17 - "git branch" y "git switch"](https://youtu.be/3GymExBkKjE?t=5857)
-- [Lección 18 - "git merge"](https://youtu.be/3GymExBkKjE?t=6547)
-- [Lección 19 - Resolución de conflictos en Git](https://youtu.be/3GymExBkKjE?t=6870)
-- [Lección 20 - "git stash"](https://youtu.be/3GymExBkKjE?t=7423)
-- [Lección 21 - Reintegración de ramas en Git](https://youtu.be/3GymExBkKjE?t=7811)
-- [Lección 22 - Eliminación de ramas en Git](https://youtu.be/3GymExBkKjE?t=8187)
-- [Lección 23 - Introducción a GitHub](https://youtu.be/3GymExBkKjE?t=8547) **Comienza la parte de GitHub**
-- [Lección 24 - Primeros pasos en GitHub](https://youtu.be/3GymExBkKjE?t=8874)
-- [Lección 25 - Repositorio personal](https://youtu.be/3GymExBkKjE?t=9039)
-- [Lección 26 - Local y Remoto](https://youtu.be/3GymExBkKjE?t=9761)
-- [Lección 27 - Autenticación SSH en GitHub](https://youtu.be/3GymExBkKjE?t=10053)
-- [Lección 28 - Repositorio proyecto](https://youtu.be/3GymExBkKjE?t=10845)
-- [Lección 29 - "git remote"](https://youtu.be/3GymExBkKjE?t=10950)
-- [Lección 30 - Subida de un proyecto a GitHub](https://youtu.be/3GymExBkKjE?t=11240)
-- [Lección 31 - "git fetch" y "git pull"](https://youtu.be/3GymExBkKjE?t=11492)
-- [Lección 32 - "git clone"](https://youtu.be/3GymExBkKjE?t=11802)
-- [Lección 33 - "git push"](https://youtu.be/3GymExBkKjE?t=11996)
-- [Lección 34 - "Fork" en GitHub](https://youtu.be/3GymExBkKjE?t=12092)
-- [Lección 35 - Flujo colaborativo en GitHub](https://youtu.be/3GymExBkKjE?t=12422)
-- [Lección 36 - "Pull Request (PR)" en GitHub](https://youtu.be/3GymExBkKjE?t=12646)
-- [Lección 37 - Ejercicio práctico](https://youtu.be/3GymExBkKjE?t=12930) **Práctica**
-- [Lección 38 - Resolución de conflictos en Pull Requests](https://youtu.be/3GymExBkKjE?t=13062)
-- [Lección 39 - Sincronización de un Fork en GitHub](https://youtu.be/3GymExBkKjE?t=14011)
-- [Lección 40 - Markdown en GitHub](https://youtu.be/3GymExBkKjE?t=14214)
-- [Lección 41 - Herramientas gráficas (GUI) para Git y GitHub](https://youtu.be/3GymExBkKjE?t=14437)
-- [Lección 42 - Git y GitHub "flow"](https://youtu.be/3GymExBkKjE?t=15517)
-- [Lección 43 - Ejemplo Gitflow](https://youtu.be/3GymExBkKjE?t=16516)
-- [Lección 44 - "git cherry-pick" y "git rebase"](https://youtu.be/3GymExBkKjE?t=17569)
-- [Lección 45 - GitHub Pages y Actions](https://youtu.be/3GymExBkKjE?t=18006)
-- [Próximos pasos](https://youtu.be/3GymExBkKjE?t=18263)
-
-> ### Ejercicio para practicar lo aprendido:
->
-> Si estás participando en el curso y ya has visto la lección 36, practica un flujo completo de trabajo en Git y GitHub añadiendo tu nombre de usuario en el documento [hello.md](./hello.md).
-
-## Enlaces de interés
-
-- [Web](https://git-scm.com) oficial Git (Documentación, descarga...)
-- [Libro](https://git-scm.com/book/es/v2) de Git en Español (Gratis)
-- ¿Con qué herramientas estoy trabajando?: [iTerm](https://iterm2.com/) con [Oh My Zsh](https://ohmyz.sh/), [VSCode](https://code.visualstudio.com/), [Miro](https://miro.com/)
-- [Guía](https://training.github.com/downloads/es_ES/github-git-cheat-sheet/) con comandos de Git más utilizados
-- [Web](https://github.com) oficial GitHub
-- [Documentación](https://docs.github.com/es) de GitHub
-- [Configuración](https://docs.github.com/es/authentication/connecting-to-github-with-ssh/about-ssh) SSH para GitHub
-- [Markdown](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- Herramientas gráficas para Git y GitHub: [GitHub Desktop](https://desktop.github.com), [GitKraken](https://gitkraken.com), [Sourcetree](https://sourcetreeapp.com), [Fork](https://git-fork.com)
-- [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
-- [GitHub Pages](https://pages.github.com/)
-- [GitHub Actions](https://github.com/features/actions)
-- Practica con los [retos de programación](https://retosdeprogramacion.com) de la comunidad
-- Y por último, aquí tienes un Gif que he creado con los 30 comandos más utilizados de Git
-
-![](./Media/terminal.gif)
-
-#### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
-
-[![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
-
-Si quieres unirte a nuestra comunidad de desarrollo, aprender programación de Apps, mejorar tus habilidades y ayudar a la continuidad del proyecto, puedes encontrarnos en:
-
-[![Twitch](https://img.shields.io/badge/Twitch-Programación_en_directo-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
-[![Discord](https://img.shields.io/badge/Discord-Servidor_de_la_comunidad-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord)
-[![Link](https://img.shields.io/badge/Links_de_interés-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://moure.dev)
-
-## ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Brais Moure.
-
+# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Brais Moure 👋
 ### Freelance full-stack iOS & Android engineer
+
+![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
@@ -137,10 +10,150 @@ Si quieres unirte a nuestra comunidad de desarrollo, aprender programación de A
 ![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
 
-Soy ingeniero de software desde hace más de 12 años. Desde hace 4 años combino mi trabajo desarrollando Apps con creación de contenido formativo sobre programación y tecnología en diferentes redes sociales como **[@mouredev](https://moure.dev)**.
+Soy ingeniero de software profesional desde hace más de doce años.
 
-### En mi perfil de GitHub tienes más información
+En 2014 dejé mi trabajo en una multinacional y creé [**MoureDev**](https://mouredev.com), el reflejo de mi sueño de crecer como profesional dentro de la industria del desarrollo de software.
+Desde entonces me he dedicado a especializarme en el desarrollo de aplicaciones móviles, colaborando con empresas de diferentes partes del mundo, creando más de 100 Apps y fundando mi propia startup.
 
-[![Web](https://img.shields.io/badge/GitHub-MoureDev-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/mouredev)
+En 2018 regreso a mi ciudad natal en Galicia (España), y empiezo a crear contenido de programación y compartir mi experiencia como desarrollador en plataformas como YouTube, Twitch o Udemy. Me gustaría devolver de alguna manera todo el conocimiento que la comunidad ha compartido conmigo de forma gratuita a lo largo de los años.
 
-...
+> 👥 [Microsoft MVP](https://mvp.microsoft.com/es-es/PublicProfile/5004970) (Most Valuable Professional) 2023 in Developer Technologies & Google Developer Groups Lead
+
+## Tecnologías:
+[![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
+[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
+[![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
+</br>
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
+[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
+</br>
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
+[![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
+</br>
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
+[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+</br>
+Y alguna más...
+
+## Encuéntrame en:
+
+[![YouTube](https://img.shields.io/badge/YouTube-Mouredev_by_Brais_Moure-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@mouredev)
+[![YouTube](https://img.shields.io/badge/YouTube-Mouredev_TV-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@mouredevtv)
+</br>
+[![Twitch](https://img.shields.io/badge/Twitch-mouredev-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
+[![Discord](https://img.shields.io/badge/Discord-mouredev-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord)
+</br>
+[![Twitter](https://img.shields.io/badge/Twitter-@mouredev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/mouredev)
+[![Instagram](https://img.shields.io/badge/Instagram-@mouredev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/mouredev)
+[![TikTok](https://img.shields.io/badge/TikTok-@mouredev-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@mouredev)
+[![Facebook](https://img.shields.io/badge/Facebook-@mouredev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/mouredev)
+</br>
+[![Link](https://img.shields.io/badge/Link_Site-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://mouredev.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)
+[![Udemy](https://img.shields.io/badge/Udemy-Brais_Moure-EC5252?style=for-the-badge&logo=udemy&logoColor=white&labelColor=101010)](https://www.udemy.com/course/swift_ios/?referralCode=04756B8423CBE177B930)
+[![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mouredev.com)
+
+## Mis guías de estudio iOS y Android:
+[![Apple](https://img.shields.io/github/stars/mouredev/Apple-Developer-Roadmap?label=Apple%20Developer%20Roadmap&style=social)](https://github.com/mouredev/Apple-Developer-Roadmap)
+[![Android](https://img.shields.io/github/stars/mouredev/Android-Developer-Roadmap?label=Android%20Developer%20Roadmap&style=social)](https://github.com/mouredev/Android-Developer-Roadmap)
+
+# Los proyectos de la comunidad
+
+## Retos de programación de la comunidad:
+
+![https://retosdeprogramacion.com](./retos_programacion_banner.png)
+
+#### Cada semana un nuevo reto para mejorar nuestra lógica de programación desde [retosdeprogramacion.com](https://retosdeprogramacion.com)
+
+[![GitHub Weekly 2023](https://img.shields.io/github/stars/mouredev/retos-programacion-2023?label=Retos%20Semanales%202023&style=social)](https://github.com/mouredev/retos-programacion-2023)
+[![GitHub Weekly Kotlin 2022](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Kotlin?label=Retos%20Semanales%202022&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin)
+
+## Python desde cero: Curso gratis
+![https://mouredev.com/python](./python_banner.png)
+
+[![Curso Python](https://img.shields.io/github/stars/mouredev/hello-python?label=Curso%20Python%20desde%20cero&style=social)](https://github.com/mouredev/hello-python)
+
+## Git & GitHub desde cero: Curso gratis
+![https://mouredev.com/git](./git_github_banner.png)
+
+[![Curso Git](https://img.shields.io/github/stars/mouredev/hello-git?label=Curso%20Git%20y%20GitHub&style=social)](https://github.com/mouredev/hello-git)
+
+## Un día, un lenguaje: Primeros pasos en 10 lenguajes
+![https://mouredev.com/lenguajes](./un_dia_un_lenguaje_banner.png)
+
+[![Curso Lenguajes](https://img.shields.io/github/stars/mouredev/one-day-one-language?label=Un%20día,%20un%20lenguaje&style=social)](https://github.com/mouredev/one-day-one-language)
+
+## Algunos vídeos en YouTube:
+
+<table style="width:100%">
+<tr>
+<td>
+<a href="https://youtu.be/Kp4Mvapo5kc">
+<img src="http://i3.ytimg.com/vi/Kp4Mvapo5kc/maxresdefault.jpg">
+</a>
+</td>
+<td>
+<a href="https://youtu.be/-pWSQYpkkjk">
+<img src="http://i3.ytimg.com/vi/-pWSQYpkkjk/maxresdefault.jpg">
+</a>
+</td>
+<td>
+<a href="https://youtu.be/3GymExBkKjE">
+<img src="http://i3.ytimg.com/vi/3GymExBkKjE/maxresdefault.jpg">
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://youtu.be/SavaU66KxQY">
+<img src="http://i3.ytimg.com/vi/SavaU66KxQY/maxresdefault.jpg">
+</a>
+</td>
+<td>
+<a href="https://youtu.be/GoAxsdg0Xbs">
+<img src="http://i3.ytimg.com/vi/GoAxsdg0Xbs/maxresdefault.jpg">
+</a>
+</td>
+<td>
+<a href="https://youtu.be/pFyAu4R684s">
+<img src="http://i3.ytimg.com/vi/pFyAu4R684s/maxresdefault.jpg">
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://youtu.be/BQaxPwZWboA">
+<img src="http://i3.ytimg.com/vi/BQaxPwZWboA/maxresdefault.jpg">
+</a>
+</td>
+<td>
+<a href="https://youtu.be/Wfh0FYR0z6I">
+<img src="http://i3.ytimg.com/vi/Wfh0FYR0z6I/maxresdefault.jpg">
+</a>
+</td>
+<td>
+<a href="https://youtu.be/ebQphhLpJG0">
+<img src="http://i3.ytimg.com/vi/ebQphhLpJG0/maxresdefault.jpg">
+</a>
+</td>
+</tr>
+</table>
+
+#### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
+
+[![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
+
+
+## Contacto y apoyo:
+
+[![MyPublicInbox](https://img.shields.io/badge/MyPublicInbox-MENSAJE+CAFÉ_(RESPUESTA_RÁPIDA)_Gracias!-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](https://mypublicinbox.com/mouredev)
+</br>
+[![Email](https://img.shields.io/badge/braismoure@mouredev.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
+</br>
+[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-apoya_mi_trabajo-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/mouredev)
